@@ -5,10 +5,11 @@ p {
     margin: 10px;
 }
 .container {
-  background-color: rgb(120, 150, 150);
+  background-color: rgb(72, 85, 85);
   justify-content: center;
-  width: 50%;
-  margin-left: 26%;
+  width: 70%;
+  height: 70%;
+  margin-left: 16%;
   margin-top: 5%;
   text-align: center;
   box-shadow: 30px;
@@ -25,10 +26,12 @@ form{
 
 .submit {
   margin: 10px;
-  margin-left: 50px;
+  margin-left: 40px;
   size: 30px;
   border-radius: 5px;
   color: blue;
+  text-shadow: 10%;
+  text-justify:inter-word
 
 }
 button{
@@ -73,7 +76,7 @@ input[type=email], select {
   border-radius: 4px;
 }
 body{
-  background-color: #b2aba9;
+  background-color: #020300;
 }
 .header{
   width: 95%;
@@ -82,5 +85,5 @@ body{
   padding: 1px 20px;
 }
 .ui-define{
-  background-color: rgb(243,240,243);
+  background-color: rgb(207, 62, 207);
 }
